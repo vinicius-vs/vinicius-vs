@@ -1,8 +1,8 @@
 
  <div>
   <a href="https://github.com/vinicius=vs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-vs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-vs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-vs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-vs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block "><br>
   <img align="right" height="100em" alt="vs" leftmargin="50em" src="https://media1.tenor.com/images/00a0fff9ab5c94d202047c25ad10c112/tenor.gif?itemid=22355452">
